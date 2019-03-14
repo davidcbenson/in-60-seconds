@@ -33,7 +33,7 @@ If there is one thing you should have learned from SAASS, it's that important co
 
 ## How Much ``cyber'' do I need to know?
 
-![](assets/img/japan-carrier-path-map.png)
+![Japanese Empire Map](assets/img/japan.jpg)
 
 +++
 
@@ -50,7 +50,7 @@ If there is one thing you should have learned from SAASS, it's that important co
 ## You are nearer the darkness than ever before
 
 
-![](assets/img/eclipse.png)
+![](assets/img/eclipse.jpg)
 
 +++
 

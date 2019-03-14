@@ -1,48 +1,118 @@
-# Let's Get Started
+# Welcome to SAASS-667
+
+---
+@title[Who Am I?]
+
+  - **David** Benson
+  - cyberstratprof@gmail.com
+  - (703) 638-3721
+  - https://github.com/davidcbenson/SAASS-collab
 
 ---
 
-## Add Some Slide Candy
+# FAQs
 
-![](assets/img/presentation.png)
++++
+
+@title[What's up with the final assignment?]
+
+Benson's Axiom: If computers are making your life harder, you are probably using them wrong.
+
++++
+
+@title[Why so little cyber in the ``Cyber'' course?] 
+
+If there is one thing you should have learned from SAASS, it's that important concepts are never simple.
+
++++
+
+@title[How Much ``cyber'' do I need to know?]
+
+![](assets/img/japan-carrier-path-map.png)
+
++++
+
+@title[Can I bring my computer?]
+
+![](assets/img/https://media.giphy.com/media/3ohs7SZDMSvfQIauCA/giphy.gif)
 
 ---
-@title[Customize Slide Layout]
 
-@snap[west span-50]
-## Customize Slide Content Layout
-@snapend
+# The Course
 
-@snap[east span-50]
-![](assets/img/presentation.png)
-@snapend
+---
 
----?color=#E58537
-@title[Add A Little Imagination]
+@title[You are nearer the darkness than ever before]
 
-@snap[north-west]
-#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
-@snapend
 
-@snap[west span-55]
-@ul[spaced text-white]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
-@ulend
-@snapend
+![](assets/img/eclipse.png)
 
-@snap[east span-45]
-@img[shadow](assets/img/conference.png)
-@snapend
++++
 
----?image=assets/img/presenter.jpg
+@title[Progress of Course]
 
-@snap[north span-100 headline]
-## Now It's Your Turn
-@snapend
+  1. Information's role in "action"
+    - Organizations vs. Non-organizations
+  2. Information Acquisition and Integration
+  3. New information environment
 
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
-@snapend
+---
+
+## Information In Action
+
++++
+
+@title[Network Lexicon]
+
+
++++
+
+
+@title[Organizations]
+
+
++++
+
+@title[Doing Things With Networks Alone]
+
+
++++
+
+@title[Using Information to Stop People Doing Things]
+
+
++++
+
+## Getting and Using information
+
++++
+
+@title[Big Data &isin; Modern Analysis]
+
++++
+
+@title[Organizational Problems Using Information]
+
+
+---
+
+## New Information Environment
+
++++
+
+@title[Cybersecurity I & II]
+
++++
+
+@title[Information Strategy]
+
+
++++
+
+@title[Information at the International Level]
+
+---
+
+# What are your questions?
+
+

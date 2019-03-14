@@ -7,9 +7,11 @@
   - **David** Benson
   - cyberstratprof@gmail.com
   - (703) 638-3721
-  - @gitlink[https://github.com/davidcbenson/SAASS-collab](https://github.com/davidcbenson/SAASS-collab)
+  - @gitlink[Git Hub Repo](https://github.com/davidcbenson/SAASS-collab)
 
-  @img[PIC][assets/img/qrcode.png]
+---
+
+  @img[][assets/img/qrcode.png]
 
 ---
 

@@ -19,25 +19,25 @@
 
 +++
 
-@title[What's up with the final assignment?]
+## What's up with the final assignment?
 
 Benson's Axiom: If computers are making your life harder, you are probably using them wrong.
 
 +++
 
-@title[Why so little cyber in the ``Cyber'' course?] 
+## Why so little cyber in the ``Cyber'' course? 
 
 If there is one thing you should have learned from SAASS, it's that important concepts are never simple.
 
 +++
 
-@title[How Much ``cyber'' do I need to know?]
+## How Much ``cyber'' do I need to know?
 
 ![](assets/img/japan-carrier-path-map.png)
 
 +++
 
-@title[Can I bring my computer?]
+## Can I bring my computer?
 
 ![](assets/img/giphy.gif)
 
@@ -47,14 +47,14 @@ If there is one thing you should have learned from SAASS, it's that important co
 
 ---
 
-@title[You are nearer the darkness than ever before]
+## You are nearer the darkness than ever before
 
 
 ![](assets/img/eclipse.png)
 
 +++
 
-@title[Progress of Course]
+## Progress of Course
 
   1. Information's role in "action"
     - Organizations vs. Non-organizations
@@ -67,23 +67,23 @@ If there is one thing you should have learned from SAASS, it's that important co
 
 +++
 
-@title[Network Lexicon]
+## Network Lexicon
 
 
 +++
 
 
-@title[Organizations]
+## Organizations
 
 
 +++
 
-@title[Doing Things With Networks Alone]
+## Doing Things With Networks Alone
 
 
 +++
 
-@title[Using Information to Stop People Doing Things]
+## Using Information to Stop People Doing Things
 
 
 +++
@@ -92,11 +92,11 @@ If there is one thing you should have learned from SAASS, it's that important co
 
 +++
 
-@title[Big Data &isin; Modern Analysis]
+## Big Data &isin; Modern Analysis
 
 +++
 
-@title[Organizational Problems Using Information]
+## Organizational Problems Using Information
 
 
 ---
@@ -105,16 +105,16 @@ If there is one thing you should have learned from SAASS, it's that important co
 
 +++
 
-@title[Cybersecurity I & II]
+## Cybersecurity I & II
 
 +++
 
-@title[Information Strategy]
+## Information Strategy
 
 
 +++
 
-@title[Information at the International Level]
+## Information at the International Level
 
 ---
 

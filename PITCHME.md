@@ -33,7 +33,7 @@ If there is one thing you should have learned from SAASS, it's that important co
 
 ## How Much ``cyber'' do I need to know?
 
-![Japanese Empire Map](assets/img/japan.jpg)
+![Japanese Empire Map span-50](assets/img/japan.jpg)
 
 +++
 

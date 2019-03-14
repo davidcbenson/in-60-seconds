@@ -13,7 +13,7 @@ taste the rainbow
 
 ---
 
-  @img[][assets/img/qrcode.png]
+!img[][assets/img/qrcode.png]
 
 ---
 

@@ -7,7 +7,9 @@
   - **David** Benson
   - cyberstratprof@gmail.com
   - (703) 638-3721
-  - [https://github.com/davidcbenson/SAASS-collab]
+  - <url>https://github.com/davidcbenson/SAASS-collab</url>
+
+  @image[][assets/img/qrcode.png]
 
 ---
 
@@ -35,7 +37,7 @@ If there is one thing you should have learned from SAASS, it's that important co
 
 @title[Can I bring my computer?]
 
-![](assets/img/https://media.giphy.com/media/3ohs7SZDMSvfQIauCA/giphy.gif)
+![](assets/img/giphy.gif)
 
 ---
 

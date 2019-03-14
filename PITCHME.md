@@ -25,15 +25,15 @@ Benson's Axiom: If computers are making your life harder, you are probably using
 
 +++
 
-## Why so little cyber in the ``Cyber'' course? 
+## Why so little cyber in the "Cyber" course? 
 
 If there is one thing you should have learned from SAASS, it's that important concepts are never simple.
 
 +++
 
-## How Much ``cyber'' do I need to know?
+## How Much "cyber" do I need to know?
 
-![Japanese Empire Map span-50](assets/img/japan.jpg)
+@[Japanese Empire Map span-50](assets/img/japan.jpg)
 
 +++
 

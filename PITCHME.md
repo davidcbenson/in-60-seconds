@@ -1,12 +1,13 @@
 # Welcome to SAASS-667
 
 ---
-@title[Who Am I?]
+
+## Who Am I?
 
   - **David** Benson
   - cyberstratprof@gmail.com
   - (703) 638-3721
-  - https://github.com/davidcbenson/SAASS-collab
+  - [https://github.com/davidcbenson/SAASS-collab]
 
 ---
 

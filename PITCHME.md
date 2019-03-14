@@ -9,7 +9,7 @@
   - (703) 638-3721
   - @gitlink[https://github.com/davidcbenson/SAASS-collab](https://github.com/davidcbenson/SAASS-collab)
 
-  @img[][assets/img/qrcode.png]
+  @img[PIC][assets/img/qrcode.png]
 
 ---
 

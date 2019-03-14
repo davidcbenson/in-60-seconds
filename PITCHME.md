@@ -7,13 +7,11 @@
   - **David** Benson
   - cyberstratprof@gmail.com
   - (703) 638-3721
-  - [Git Hub Repo](https://github.com/davidcbenson/SAASS-collab)
 
-taste the rainbow
 
 ---
 
-!img[][assets/img/qrcode.png]
+!img[](assets/img/qrcode.png)
 
 ---
 

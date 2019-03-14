@@ -11,7 +11,7 @@
 
 ---
 
-!img[](assets/img/qrcode.png)
+![](assets/img/qrcode.png)
 
 ---
 
